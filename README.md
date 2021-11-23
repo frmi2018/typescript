@@ -3,8 +3,10 @@
 <br/>
 <br/>
 
-Projets / exercices pour apprendre TypeScript
-
 ### Documentations :
 
 [TS](https://www.typescriptlang.org/fr/)  
+
+### Projets :
+
+Facturier : exercice disponible dans la formation : https://www.udemy.com/course/typescript-pour-tous/
